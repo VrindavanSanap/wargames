@@ -1,0 +1,13 @@
+default cookie from cookies MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5oKC4qLSgubjY%3D
+Escaped cookie MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5oKC4qLSgubjY=
+
+Defualt values without XOR eyJzaG93cGFzc3dvcmQiOiJubyIsImJnY29sb3IiOiIjZmZmZmZmIn0=
+set1 find key
+After XORing these two we get
+
+	MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5oKC4qLSgubjY=  XORed with 
+	eyJzaG93cGFzc3dvcmQiOiJubyIsImJnY29sb3IiOiIjZmZmZmZmIn0=  gives
+	KNHLKNHLKNHLKNHLKNHLKNHLKNHLKNHLKNHLKNHLK
+	which is just KNHL repeated 
+
+		
